@@ -57,7 +57,6 @@ multi_agent/
 └── main.py          # CLI version
 ```
 
-## 📁 Project Structure
 multi_agent/
 ├── agents/          # All 4 AI agents
 ├── graph/           # LangGraph workflow
