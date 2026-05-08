@@ -47,7 +47,7 @@ OPENAI_API_KEY=your_key_here
 ```bash
 streamlit run app.py
 
-## 📁 Project Structure
+##📁 Project Structure
 
 multi_agent/
 ├── agents/          # All 4 AI agents
@@ -58,3 +58,9 @@ multi_agent/
 ```
 
 ## 📁 Project Structure
+multi_agent/
+├── agents/          # All 4 AI agents
+├── graph/           # LangGraph workflow
+├── state/           # Shared state
+├── app.py           # Streamlit UI
+└── main.py          # CLI version
