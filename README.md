@@ -57,9 +57,4 @@ multi_agent/
 └── main.py          # CLI version
 ```
 
-multi_agent/
-├── agents/          # All 4 AI agents
-├── graph/           # LangGraph workflow
-├── state/           # Shared state
-├── app.py           # Streamlit UI
-└── main.py          # CLI version
+
